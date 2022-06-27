@@ -1,6 +1,7 @@
 {
     "name": "Luna",
     "description": "When you going to send file on telegram channel this bot will save that in database, So you can search that easily in inline mode",
+    "logo": "https://telegra.ph/file/28c3d6a3a6f8a372a9c21.jpg",
     "stack": "container",
     "keywords": [
       "telegram",
