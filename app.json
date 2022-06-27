@@ -1,5 +1,5 @@
 {
-    "name": "EvaMariaBot",
+    "name": "Luna",
     "description": "When you going to send file on telegram channel this bot will save that in database, So you can search that easily in inline mode",
     "stack": "container",
     "keywords": [
@@ -15,8 +15,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/EvamariaTG/EvaMaria",
-    "repository": "https://github.com/EvamariaTG/EvaMaria",
+    "website": "https://github.com/BalamuruganDV/LUNA-FILTER-BOT",
+    "repository": "https://github.com/BalamuruganDV/LUNA-FILTER-BOT",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
@@ -64,7 +64,7 @@
         },
         "COLLECTION_NAME": {
             "description": "Name of the collections. Defaults to Telegram_files. If you are using the same database, then use different collection name for each bot",
-            "value": "Telegram_files",
+            "value": "Luna_files",
             "required": false
         }
     },
