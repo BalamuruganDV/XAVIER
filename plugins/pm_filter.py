@@ -406,7 +406,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('➕ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
         ], [
             InlineKeyboardButton('ꜱᴇᴀʀᴄʜ', switch_inline_query_current_chat=''),
-            InlineKeyboardButton('ᴜᴘᴅᴀᴛᴇꜱ', url='https://t.me/All_in_ones_01')
+            InlineKeyboardButton('sᴜᴘᴘᴏʀᴛ', url='https://t.me/LunaSupports')
         ], [
             InlineKeyboardButton('ʜᴇʟᴘ', callback_data='help'),
             InlineKeyboardButton('ᴀʙᴏᴜᴛ', callback_data='about')
@@ -611,7 +611,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             ]
             reply_markup = InlineKeyboardMarkup(buttons)
             await query.message.edit_reply_markup(reply_markup)
-    await query.answer('Piracy Is Crime')
+    await query.answer('𝚙𝚛𝚒𝚟𝚊𝚌𝚢 𝚒𝚜 𝚌𝚛𝚒𝚖𝚎')
 
 
 async def auto_filter(client, msg, spoll=False):
