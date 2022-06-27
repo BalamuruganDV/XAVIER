@@ -41,14 +41,13 @@ You can deploy this bot anywhere.
 
 <i>**[Watch Deploying Tutorial...](https://youtu.be/CPuvm126KPA)**</i>
 
-<details><summary>Deploy To Heroku</summary>
-<p>
+<summary>Deploy To Heroku</summary>
 <br>
-<a href="https://telegram.dog/XTZ_HerokuBot?start=RXZhbWFyaWFURy9FdmFNYXJpYSBtYXN0ZXI">
+<p>
+<a href="https://heroku.com/deploy?template=https://github.com/BalamuruganDV/LUNA-XTRA-FEATURE">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
-</details>
 
 <details><summary>Deploy To VPS</summary>
 <p>
