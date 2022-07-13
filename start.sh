@@ -1,12 +1,12 @@
 if [ -z $UPSTREAM_REPO ]
 then
   echo "Cloning main Repository"
-  git clone https://github.com/BalamuruganDV/LUNA-FILTER-BOT.git /LUNA-FILTER-BOT
+  git clone https://github.com/BalamuruganDV/DEEPIKA-PADUKONE.git /DEEPIKA-PADUKONE
 else
   echo "Cloning Custom Repo from $UPSTREAM_REPO "
-  git clone $UPSTREAM_REPO /LUNA-FILTER-BOT
+  git clone $UPSTREAM_REPO /DEEPIKA-PADUKONE
 fi
-cd /LUNA-FILTER-BOT
+cd /DEEPIKA-PADUKONE
 pip3 install -U -r requirements.txt
-echo "Starting Luna Bot...."
+echo "Starting Deepika...."
 python3 bot.py
