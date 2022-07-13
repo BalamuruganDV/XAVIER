@@ -1,6 +1,6 @@
  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝚆𝙴𝙻𝙲𝙾𝙼𝙴+𝚃𝙾+𝙻𝚄𝙽𝙰-𝙱𝙾𝚃𝚂!;𝙲𝚁𝙴𝙰𝚃𝙴𝙳+𝙱𝚈+𝙱𝙰𝙻𝙰𝙼𝚄𝚁𝚄𝙶𝙰𝙽!)
 <p align="center">
-  <img src="https://telegra.ph/file/28c3d6a3a6f8a372a9c21.jpg" alt="𝙻𝚄𝙽𝙰-𝙴𝚇𝚃𝚁𝙰-𝙵𝙴𝙰𝚃𝚄𝚁𝙴𝚂Logo">
+  <img src="https://telegra.ph/file/b7db6cfa3a5ebe9f20823.jpg" alt="Deepika-padukone-Logo">
 </p>
 ## Features
 
