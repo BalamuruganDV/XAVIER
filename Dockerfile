@@ -6,7 +6,7 @@ COPY requirements.txt /requirements.txt
 
 RUN cd /
 RUN pip3 install -U pip && pip3 install -U -r requirements.txt
-RUN mkdir /LUNA-FILTER-BOT
-WORKDIR /LUNA-FILTER-BOT
+RUN mkdir /DEEPIKA-PADUKONE
+WORKDIR /DEEPIKA-PADUKONE
 COPY start.sh /start.sh
 CMD ["/bin/bash", "/start.sh"]
