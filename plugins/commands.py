@@ -45,7 +45,7 @@ async def start(client, message):
             InlineKeyboardButton('➕ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
         ], [
             InlineKeyboardButton('🔍 ꜱᴇᴀʀᴄʜ', switch_inline_query_current_chat=''),
-            InlineKeyboardButton('🤖 sᴜᴘᴘᴏʀᴛ', url='https://t.me/LunaSupports')
+            InlineKeyboardButton('🤖 sᴜᴘᴘᴏʀᴛ', url='https://t.me/Rb_Supports')
         ], [
             InlineKeyboardButton('ℹ️ ʜᴇʟᴘ', callback_data='help'),
             InlineKeyboardButton('☺️ ᴀʙᴏᴜᴛ', callback_data='about')
@@ -91,7 +91,7 @@ async def start(client, message):
             InlineKeyboardButton('➕ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
         ], [
             InlineKeyboardButton('🔍 ꜱᴇᴀʀᴄʜ', switch_inline_query_current_chat=''),
-            InlineKeyboardButton('🤖 sᴜᴘᴘᴏʀᴛ', url='https://t.me/LunaSupports')
+            InlineKeyboardButton('🤖 sᴜᴘᴘᴏʀᴛ', url='https://t.me/Rb_Supports')
         ], [
             InlineKeyboardButton('ℹ️ ʜᴇʟᴘ', callback_data='help'),
             InlineKeyboardButton('☺️ ᴀʙᴏᴜᴛ', callback_data='about')
