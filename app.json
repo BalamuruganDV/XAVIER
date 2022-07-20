@@ -1,7 +1,7 @@
 {
-    "name": "Deepika-Padukone",
+    "name": "Alone",
     "description": "When you going to send file on telegram channel this bot will save that in database, So you can search that easily in inline mode",
-    "logo": "https://telegra.ph/file/b7db6cfa3a5ebe9f20823.jpg",
+    "logo": "https://telegra.ph/file/0891ff314526b2e655712.jpg",
     "stack": "container",
     "keywords": [
       "telegram",
@@ -16,8 +16,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/BalamuruganDV/LUNA-FILTER-BOT",
-    "repository": "https://github.com/BalamuruganDV/LUNA-FILTER-BOT",
+    "website": "https://github.com/BalamuruganDV/ALONE",
+    "repository": "https://github.com/BalamuruganDV/ALONE",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
