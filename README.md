@@ -44,7 +44,7 @@ You can deploy this bot anywhere.
 <summary>Deploy To Heroku</summary>
 <br>
 <p>
-<a href="https://heroku.com/deploy?template=https://github.com/BalamuruganDV/DEEPIKA-PADUKONE">
+<a href="https://heroku.com/deploy?template=https://github.com/BalamuruganDV/ALONE">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
@@ -52,7 +52,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
-git clone https://github.com/BalamuruganDV/DEEPIKA-PADUKONE
+git clone https://github.com/BalamuruganDV/ALONE
 # Install Packages
 pip3 install -U -r requirements.txt
 Edit info.py with variables as given below then run bot
