@@ -70,7 +70,7 @@ class script(object):
     EXTRAMOD_TXT = """Help: <b>Extra Modules</b>
 
 <b>NOTE:</b>
-these are the extra features of Deepika-padukone-bot
+these are the extra features of Alone
 
 <b>Commands and Usage:</b>
 • /id - <code>get id of a specified user.</code>
