@@ -1,12 +1,12 @@
 if [ -z $UPSTREAM_REPO ]
 then
   echo "Cloning main Repository"
-  git clone https://github.com/BalamuruganDV/ALONE.git /ALONE
+  git clone https://github.com/BalamuruganDV/XAVIER.git /XAVIER
 else
   echo "Cloning Custom Repo from $UPSTREAM_REPO "
-  git clone $UPSTREAM_REPO /ALONE
+  git clone $UPSTREAM_REPO /XAVIER
 fi
-cd /ALONE
+cd /XAVIER
 pip3 install -U -r requirements.txt
-echo "Starting Alone🔥...."
+echo "Starting Xavier🔥...."
 python3 bot.py
