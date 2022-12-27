@@ -16,7 +16,7 @@ from utils import temp
 from typing import Union, Optional, AsyncGenerator
 from pyrogram import types
 from aiohttp import web
-from plugins.web_server import web_server
+from plugins import web_server
 
 PORT = "8080"
 
